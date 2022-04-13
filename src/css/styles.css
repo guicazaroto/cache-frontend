@@ -1,0 +1,38 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+nav {
+  background-color: rgb(207, 6, 6);
+  width: 100%;
+  padding: 0.5rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 1rem;
+  font-family: sans-serif;
+  font-size: 25px;
+  list-style-type: none;
+}
+
+nav ul li a { 
+  color: rgb(233, 233, 3);
+  text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 30px;
+  font-family: Georgia;
+}
